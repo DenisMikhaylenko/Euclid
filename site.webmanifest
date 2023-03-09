@@ -1,0 +1,21 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "name": "Евклид - проектные системы<",
+  "short_name": "Евклид",
+  "description": "Описание",
+  "categories": ["education", "security"],
+  "scope": "./",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "hsl(0deg 0% 100%)",
+  "background_color": "hsl(0deg 100% 0%)",
+  "icons": [
+    { "src": "./favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "./assets/images/favicon-25х25.png", "type": "image/png", "sizes": "25х25" },
+    { "src": "./assets/images/favicon-50x50.png", "type": "image/png", "sizes": "50x50" },
+    { "src": "./assets/images/favicon-75x75.png", "type": "image/png", "sizes": "75x75" },
+    { "src": "./assets/images/favicon-100x100.png", "type": "image/png", "sizes": "100x100" }
+  ]
+}
